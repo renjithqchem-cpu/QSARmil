@@ -17,7 +17,6 @@ QSARmil_GitHub_reproducibility/
 ├── requirements.in
 ├── requirements-lock.txt
 ├── ENVIRONMENT.md
-├── AUDIT_MANIFEST.csv
 │
 ├── programs/
 │   ├── primary/
@@ -35,10 +34,7 @@ QSARmil_GitHub_reproducibility/
 │
 ├── legacy/
 │   └── programs/
-│
-└── docs/
-    ├── CURATION_REPORT.md
-    └── ORIGINAL_REPAIR_PLAN.md
+
 ```
 
 ### `programs/primary/`
