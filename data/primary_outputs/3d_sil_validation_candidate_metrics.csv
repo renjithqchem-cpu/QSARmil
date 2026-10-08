@@ -1,0 +1,73 @@
+descriptor,architecture,model,status,validation_RMSE,validation_MAE,validation_R2,validation_Pearson,error
+RDKitGEOM,MeanInstanceWrapperMLPNetworkRegressor,RDKitGEOM|MeanInstanceWrapperMLPNetworkRegressor,OK,3.80563324266923,2.712879769917831,0.05992046094783532,0.2768880546119353,
+RDKitGEOM,MeanBagWrapperMLPNetworkRegressor,RDKitGEOM|MeanBagWrapperMLPNetworkRegressor,OK,3.805633276993683,2.712879728252448,0.05992044398996588,0.27688802341180024,
+RDKitGEOM,MeanBagNetworkRegressor,RDKitGEOM|MeanBagNetworkRegressor,OK,3.6790837099504046,2.6364688142237154,0.12140227364165956,0.35806635007001475,
+RDKitGEOM,MeanInstanceNetworkRegressor,RDKitGEOM|MeanInstanceNetworkRegressor,OK,3.6790837099504046,2.6364688142237154,0.12140227364165956,0.35806635007001475,
+RDKitGEOM,AdditiveAttentionNetworkRegressor,RDKitGEOM|AdditiveAttentionNetworkRegressor,OK,3.6790837099504046,2.6364688142237154,0.12140227364165956,0.35806635007001475,
+RDKitGEOM,SelfAttentionNetworkRegressor,RDKitGEOM|SelfAttentionNetworkRegressor,OK,3.7690388726084145,2.699088701044472,0.0779128506932083,0.3153135809827894,
+RDKitGEOM,HopfieldAttentionNetworkRegressor,RDKitGEOM|HopfieldAttentionNetworkRegressor,OK,3.6790837099504046,2.6364688142237154,0.12140227364165956,0.35806635007001475,
+RDKitGEOM,DynamicPoolingNetworkRegressor,RDKitGEOM|DynamicPoolingNetworkRegressor,OK,3.777638073867162,2.708546826353351,0.07370049914190224,0.3115946667356801,
+RDKitAUTOCORR,MeanInstanceWrapperMLPNetworkRegressor,RDKitAUTOCORR|MeanInstanceWrapperMLPNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,MeanBagWrapperMLPNetworkRegressor,RDKitAUTOCORR|MeanBagWrapperMLPNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,MeanBagNetworkRegressor,RDKitAUTOCORR|MeanBagNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,MeanInstanceNetworkRegressor,RDKitAUTOCORR|MeanInstanceNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,AdditiveAttentionNetworkRegressor,RDKitAUTOCORR|AdditiveAttentionNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,SelfAttentionNetworkRegressor,RDKitAUTOCORR|SelfAttentionNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,HopfieldAttentionNetworkRegressor,RDKitAUTOCORR|HopfieldAttentionNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitAUTOCORR,DynamicPoolingNetworkRegressor,RDKitAUTOCORR|DynamicPoolingNetworkRegressor,FAILED,,,,,"ValueError('Found array with 0 feature(s) (shape=(410, 0)) while a minimum of 1 is required by MinMaxScaler.')"
+RDKitRDF,MeanInstanceWrapperMLPNetworkRegressor,RDKitRDF|MeanInstanceWrapperMLPNetworkRegressor,OK,9.462328098590307,3.4952581192220302,-4.8117475579021285,0.18969558042097742,
+RDKitRDF,MeanBagWrapperMLPNetworkRegressor,RDKitRDF|MeanBagWrapperMLPNetworkRegressor,OK,9.462328775489153,3.495258157415298,-4.811748389402646,0.18969558039867163,
+RDKitRDF,MeanBagNetworkRegressor,RDKitRDF|MeanBagNetworkRegressor,OK,14.625210811877988,3.695757263007674,-12.8840128167011,0.2375510917964784,
+RDKitRDF,MeanInstanceNetworkRegressor,RDKitRDF|MeanInstanceNetworkRegressor,OK,14.625210811877988,3.695757263007674,-12.8840128167011,0.2375510917964784,
+RDKitRDF,AdditiveAttentionNetworkRegressor,RDKitRDF|AdditiveAttentionNetworkRegressor,OK,14.625210811877988,3.695757263007674,-12.8840128167011,0.2375510917964784,
+RDKitRDF,SelfAttentionNetworkRegressor,RDKitRDF|SelfAttentionNetworkRegressor,OK,6.415077797064226,2.7604998303154136,-1.6712503451152183,0.38027023392606457,
+RDKitRDF,HopfieldAttentionNetworkRegressor,RDKitRDF|HopfieldAttentionNetworkRegressor,OK,14.625210811877988,3.695757263007674,-12.8840128167011,0.2375510917964784,
+RDKitRDF,DynamicPoolingNetworkRegressor,RDKitRDF|DynamicPoolingNetworkRegressor,OK,2.872087047548191,2.1891415700634704,0.46456601518668494,0.6879411072301761,
+RDKitMORSE,MeanInstanceWrapperMLPNetworkRegressor,RDKitMORSE|MeanInstanceWrapperMLPNetworkRegressor,OK,2.7156607997099185,2.1531181231748713,0.5213018127372258,0.7402597786783108,
+RDKitMORSE,MeanBagWrapperMLPNetworkRegressor,RDKitMORSE|MeanBagWrapperMLPNetworkRegressor,OK,2.7156608174713686,2.153118152109165,0.5213018064754907,0.7402597623313222,
+RDKitMORSE,MeanBagNetworkRegressor,RDKitMORSE|MeanBagNetworkRegressor,OK,2.697822947569601,2.0956864356763156,0.5275698292679594,0.778144555438774,
+RDKitMORSE,MeanInstanceNetworkRegressor,RDKitMORSE|MeanInstanceNetworkRegressor,OK,2.697822947569601,2.0956864356763156,0.5275698292679594,0.778144555438774,
+RDKitMORSE,AdditiveAttentionNetworkRegressor,RDKitMORSE|AdditiveAttentionNetworkRegressor,OK,2.697822947569601,2.0956864356763156,0.5275698292679594,0.778144555438774,
+RDKitMORSE,SelfAttentionNetworkRegressor,RDKitMORSE|SelfAttentionNetworkRegressor,OK,2.671363894061386,1.937667612977398,0.5367911591354413,0.7837919327515201,
+RDKitMORSE,HopfieldAttentionNetworkRegressor,RDKitMORSE|HopfieldAttentionNetworkRegressor,OK,2.697822947569601,2.0956864356763156,0.5275698292679594,0.778144555438774,
+RDKitMORSE,DynamicPoolingNetworkRegressor,RDKitMORSE|DynamicPoolingNetworkRegressor,OK,2.5734214479845194,1.9664679805977832,0.5701345221383557,0.7654880586890878,
+RDKitWHIM,MeanInstanceWrapperMLPNetworkRegressor,RDKitWHIM|MeanInstanceWrapperMLPNetworkRegressor,OK,3.616445076021244,2.5784933342054055,0.15106491284673174,0.43418232114762123,
+RDKitWHIM,MeanBagWrapperMLPNetworkRegressor,RDKitWHIM|MeanBagWrapperMLPNetworkRegressor,OK,3.6164450203954788,2.578493298326882,0.15106493896224726,0.4341823430957367,
+RDKitWHIM,MeanBagNetworkRegressor,RDKitWHIM|MeanBagNetworkRegressor,OK,3.5437773457743162,2.489593551031594,0.18483862866808376,0.4447257817879545,
+RDKitWHIM,MeanInstanceNetworkRegressor,RDKitWHIM|MeanInstanceNetworkRegressor,OK,3.5437773457743162,2.489593551031594,0.18483862866808376,0.4447257817879545,
+RDKitWHIM,AdditiveAttentionNetworkRegressor,RDKitWHIM|AdditiveAttentionNetworkRegressor,OK,3.5437773457743162,2.489593551031594,0.18483862866808376,0.4447257817879545,
+RDKitWHIM,SelfAttentionNetworkRegressor,RDKitWHIM|SelfAttentionNetworkRegressor,OK,3.5082922564500283,2.4467498937393852,0.20108188990544162,0.4525676023227904,
+RDKitWHIM,HopfieldAttentionNetworkRegressor,RDKitWHIM|HopfieldAttentionNetworkRegressor,OK,3.5437773457743162,2.489593551031594,0.18483862866808376,0.4447257817879545,
+RDKitWHIM,DynamicPoolingNetworkRegressor,RDKitWHIM|DynamicPoolingNetworkRegressor,OK,3.5220427668844034,2.39569228274151,0.19480700769893833,0.44346563073798706,
+MolFeatUSRD,MeanInstanceWrapperMLPNetworkRegressor,MolFeatUSRD|MeanInstanceWrapperMLPNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,MeanBagWrapperMLPNetworkRegressor,MolFeatUSRD|MeanBagWrapperMLPNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,MeanBagNetworkRegressor,MolFeatUSRD|MeanBagNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,MeanInstanceNetworkRegressor,MolFeatUSRD|MeanInstanceNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,AdditiveAttentionNetworkRegressor,MolFeatUSRD|AdditiveAttentionNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,SelfAttentionNetworkRegressor,MolFeatUSRD|SelfAttentionNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,HopfieldAttentionNetworkRegressor,MolFeatUSRD|HopfieldAttentionNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatUSRD,DynamicPoolingNetworkRegressor,MolFeatUSRD|DynamicPoolingNetworkRegressor,FAILED,,,,,"ValueError('all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 12 and the array at index 24 has size 1')"
+MolFeatElectroShape,MeanInstanceWrapperMLPNetworkRegressor,MolFeatElectroShape|MeanInstanceWrapperMLPNetworkRegressor,OK,3.159719639657176,2.3889309145293187,0.35195101399840745,0.5994985424402386,
+MolFeatElectroShape,MeanBagWrapperMLPNetworkRegressor,MolFeatElectroShape|MeanBagWrapperMLPNetworkRegressor,OK,3.15971972191531,2.3889309706618485,0.35195098025661564,0.5994985174109722,
+MolFeatElectroShape,MeanBagNetworkRegressor,MolFeatElectroShape|MeanBagNetworkRegressor,OK,3.1176066629226007,2.3056919895022094,0.3691103856632173,0.6099331290947525,
+MolFeatElectroShape,MeanInstanceNetworkRegressor,MolFeatElectroShape|MeanInstanceNetworkRegressor,OK,3.1176066629226007,2.3056919895022094,0.3691103856632173,0.6099331290947525,
+MolFeatElectroShape,AdditiveAttentionNetworkRegressor,MolFeatElectroShape|AdditiveAttentionNetworkRegressor,OK,3.1176066629226007,2.3056919895022094,0.3691103856632173,0.6099331290947525,
+MolFeatElectroShape,SelfAttentionNetworkRegressor,MolFeatElectroShape|SelfAttentionNetworkRegressor,OK,3.12187461243901,2.3260316357927997,0.3673818493977037,0.6073815037449884,
+MolFeatElectroShape,HopfieldAttentionNetworkRegressor,MolFeatElectroShape|HopfieldAttentionNetworkRegressor,OK,3.1176066629226007,2.3056919895022094,0.3691103856632173,0.6099331290947525,
+MolFeatElectroShape,DynamicPoolingNetworkRegressor,MolFeatElectroShape|DynamicPoolingNetworkRegressor,OK,3.117500737043976,2.3795444380065187,0.36915325598564774,0.6113879622667744,
+RDKitGETAWAY,MeanInstanceWrapperMLPNetworkRegressor,RDKitGETAWAY|MeanInstanceWrapperMLPNetworkRegressor,OK,3.276882098969396,2.37820502582395,0.303000658108598,0.5898866164693914,
+RDKitGETAWAY,MeanBagWrapperMLPNetworkRegressor,RDKitGETAWAY|MeanBagWrapperMLPNetworkRegressor,OK,3.2768820856286447,2.3782049285323876,0.30300066378380675,0.589886608887218,
+RDKitGETAWAY,MeanBagNetworkRegressor,RDKitGETAWAY|MeanBagNetworkRegressor,OK,3.182157707520663,2.32718230703502,0.34271437368683877,0.6033848092303421,
+RDKitGETAWAY,MeanInstanceNetworkRegressor,RDKitGETAWAY|MeanInstanceNetworkRegressor,OK,3.182157707520663,2.32718230703502,0.34271437368683877,0.6033848092303421,
+RDKitGETAWAY,AdditiveAttentionNetworkRegressor,RDKitGETAWAY|AdditiveAttentionNetworkRegressor,OK,3.182157707520663,2.32718230703502,0.34271437368683877,0.6033848092303421,
+RDKitGETAWAY,SelfAttentionNetworkRegressor,RDKitGETAWAY|SelfAttentionNetworkRegressor,OK,2.9770855341421028,2.221615706801198,0.42470134171778484,0.6785495062581217,
+RDKitGETAWAY,HopfieldAttentionNetworkRegressor,RDKitGETAWAY|HopfieldAttentionNetworkRegressor,OK,3.182157707520663,2.32718230703502,0.34271437368683877,0.6033848092303421,
+RDKitGETAWAY,DynamicPoolingNetworkRegressor,RDKitGETAWAY|DynamicPoolingNetworkRegressor,OK,2.6770921908885175,1.7186505268776373,0.5348024801501363,0.7382866925508814,
+MolFeatPmapper,MeanInstanceWrapperMLPNetworkRegressor,MolFeatPmapper|MeanInstanceWrapperMLPNetworkRegressor,OK,1.7096318677341098,1.2289369975623576,0.810278764023501,0.9023467584395951,
+MolFeatPmapper,MeanBagWrapperMLPNetworkRegressor,MolFeatPmapper|MeanBagWrapperMLPNetworkRegressor,OK,1.7096318879131058,1.2289369839994075,0.8102787595448946,0.9023467546667201,
+MolFeatPmapper,MeanBagNetworkRegressor,MolFeatPmapper|MeanBagNetworkRegressor,OK,1.6138950476943716,1.170552559657004,0.8309320393437607,0.9120687981582346,
+MolFeatPmapper,MeanInstanceNetworkRegressor,MolFeatPmapper|MeanInstanceNetworkRegressor,OK,1.6138950476943716,1.170552559657004,0.8309320393437607,0.9120687981582346,
+MolFeatPmapper,AdditiveAttentionNetworkRegressor,MolFeatPmapper|AdditiveAttentionNetworkRegressor,OK,1.6138950476943716,1.170552559657004,0.8309320393437607,0.9120687981582346,
+MolFeatPmapper,SelfAttentionNetworkRegressor,MolFeatPmapper|SelfAttentionNetworkRegressor,OK,1.6073990977454586,1.17287034988982,0.8322903020909012,0.9126413126164816,
+MolFeatPmapper,HopfieldAttentionNetworkRegressor,MolFeatPmapper|HopfieldAttentionNetworkRegressor,OK,1.6138950476943716,1.170552559657004,0.8309320393437607,0.9120687981582346,
+MolFeatPmapper,DynamicPoolingNetworkRegressor,MolFeatPmapper|DynamicPoolingNetworkRegressor,OK,1.876630198652531,1.3633355404277447,0.7714042574831561,0.8856466592029566,

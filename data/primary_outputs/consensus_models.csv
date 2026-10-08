@@ -1,0 +1,5 @@
+Dataset,Model_column,N_valid,Mean_prediction,Std_prediction
+5,ESOL predicted log solubility in mols per litre,226,-3.013358407079646,1.7312702670698523
+10,ESOL predicted log solubility in mols per litre,226,-3.013358407079646,1.7312702670698523
+15,ESOL predicted log solubility in mols per litre,226,-3.013358407079646,1.7312702670698523
+20,ESOL predicted log solubility in mols per litre,226,-3.013358407079646,1.7312702670698523

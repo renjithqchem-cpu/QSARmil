@@ -1,0 +1,2 @@
+dataset,N_total,N_train,N_fit,N_validation,N_test,selected_model,selected_descriptor,selected_architecture,validation_RMSE,validation_MAE,validation_R2,test_R2,test_RMSE,test_MAE,test_Pearson_r
+FreeSolv,642,513,410,103,129,MolFeatPmapper|SelfAttentionNetworkRegressor,MolFeatPmapper,SelfAttentionNetworkRegressor,1.6073990977454586,1.17287034988982,0.8322903020909012,0.7996619468692392,1.5760519232380064,1.1946313594108404,0.8943746778998812

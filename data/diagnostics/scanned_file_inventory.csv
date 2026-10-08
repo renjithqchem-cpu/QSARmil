@@ -1,0 +1,17 @@
+Source_file,Conformers,Source_type
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_10conf/test.csv,10,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_10conf/train.csv,10,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_10conf/val.csv,10,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_10conf_predictions.csv,10,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_15conf/test.csv,15,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_15conf/train.csv,15,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_15conf/val.csv,15,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_15conf_predictions.csv,15,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_20conf/test.csv,20,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_20conf/train.csv,20,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_20conf/val.csv,20,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_20conf_predictions.csv,20,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_5conf/test.csv,5,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_5conf/train.csv,5,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_5conf/val.csv,5,csv
+/home/renjith/Documents/qsarmil/data/esol_qsarmil_5conf_predictions.csv,5,csv

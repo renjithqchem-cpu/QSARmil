@@ -1,0 +1,25 @@
+descriptor,metric,test,H,p_value,n,rho
+MORSE,ensemble_spread,Kruskal-Wallis,6.401803138721732,0.09361663861162405,129,
+MORSE,ensemble_spread,Quartile-rank Spearman,,0.08185830150613264,129,0.15378297206539526
+MORSE,nearest_train_distance,Kruskal-Wallis,3.1301282051281873,0.3719938549585259,129,
+MORSE,nearest_train_distance,Quartile-rank Spearman,,0.9745643288008174,129,-0.002834842194969461
+MORSE,mean_train_distance,Kruskal-Wallis,1.377233425489237,0.7108799121845351,129,
+MORSE,mean_train_distance,Quartile-rank Spearman,,0.3117801842699533,129,0.08975075747617163
+Pmapper,ensemble_spread,Kruskal-Wallis,2.3852692849785626,0.4963826311707674,129,
+Pmapper,ensemble_spread,Quartile-rank Spearman,,0.5228575680555537,129,0.0567632404070107
+Pmapper,nearest_train_distance,Kruskal-Wallis,4.722673740987659,0.19326768774031478,129,
+Pmapper,nearest_train_distance,Quartile-rank Spearman,,0.23030114475403718,129,0.10635277118622191
+Pmapper,mean_train_distance,Kruskal-Wallis,2.9337351601886326,0.4019551545150183,129,
+Pmapper,mean_train_distance,Quartile-rank Spearman,,0.08859397356663361,129,0.1505382036059801
+ElectroShape,ensemble_spread,Kruskal-Wallis,4.4466214018539745,0.2171012409530747,129,
+ElectroShape,ensemble_spread,Quartile-rank Spearman,,0.7870231289089346,129,0.024018214930902154
+ElectroShape,nearest_train_distance,Kruskal-Wallis,7.527449585298427,0.05685733363136727,129,
+ElectroShape,nearest_train_distance,Quartile-rank Spearman,,0.012802895514865284,129,0.21863215237883107
+ElectroShape,mean_train_distance,Kruskal-Wallis,4.627617634303704,0.20118566398302293,129,
+ElectroShape,mean_train_distance,Quartile-rank Spearman,,0.424712169100123,129,-0.07088548889763249
+GETAWAY,ensemble_spread,Kruskal-Wallis,0.03637109015016904,0.9981751823109042,129,
+GETAWAY,ensemble_spread,Quartile-rank Spearman,,0.9099067644809133,129,-0.010060514306994473
+GETAWAY,nearest_train_distance,Kruskal-Wallis,3.3096716268227624,0.34629880124578655,129,
+GETAWAY,nearest_train_distance,Quartile-rank Spearman,,0.9319225041913421,129,0.007595183110961967
+GETAWAY,mean_train_distance,Kruskal-Wallis,3.2361074971539665,0.356634745055172,129,
+GETAWAY,mean_train_distance,Quartile-rank Spearman,,0.2008825498861815,129,0.11335327253326971

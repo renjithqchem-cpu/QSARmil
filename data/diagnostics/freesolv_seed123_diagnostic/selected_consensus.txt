@@ -1,0 +1,4 @@
+MolFeatPmapper|MeanInstanceWrapperMLPNetworkRegressor
+MolFeatElectroShape|MeanInstanceWrapperMLPNetworkRegressor
+RDKitMORSE|MeanBagWrapperMLPNetworkRegressor
+RDKitRDF|MeanInstanceWrapperMLPNetworkRegressor

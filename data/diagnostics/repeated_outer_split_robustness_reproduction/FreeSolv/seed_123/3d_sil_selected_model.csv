@@ -1,0 +1,2 @@
+selected_model,selected_descriptor,selected_architecture,validation_RMSE,validation_MAE
+MolFeatPmapper|SelfAttentionNetworkRegressor,MolFeatPmapper,SelfAttentionNetworkRegressor,2.2243236279807395,1.5089399186199868

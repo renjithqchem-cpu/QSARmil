@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+scipy==1.17.1
+scikit-learn==1.9.1
+statsmodels
+matplotlib==3.10.9
+rdkit==2026.03.6
+molfeat==1.0.0
+qsarmil==1.0.8
+qsarcons==1.1.6
+mikit-learn==1.0.6
